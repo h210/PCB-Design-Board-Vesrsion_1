@@ -1,5 +1,5 @@
 # PCB Design Board Vesrsion_1
-                                                    Bio-Avatar Board_1
+                                                       Bio-Avatar Board_1
 The Board consists of Multilayer PCB is more suitable for that face problems like noise, stray capacitance, crosstalk and the EMI shielding is easier and more flexible when power and ground layers are placed carefully. So that, the design consists of four layers is divide into Signals layers, Power and ground layers. {Signals /GND / Power /Signals}. 
 The PCB we've designed is 65 by 35 mm.  The PCB thickness is 1.6mm, signal tracks are 0.15mm to conductor current (0.4862 Amps) and power tracks are 0.4mm to conductor current (0.8800 Amps).
 
